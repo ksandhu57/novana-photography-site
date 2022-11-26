@@ -1,0 +1,7 @@
+.header-banner {
+    background-color: grey;
+    margin: 0 0;
+    color: wheat;
+    display: flex;
+    justify-content: space-evenly;
+}
